@@ -9,3 +9,5 @@ Tools ini hanya support pada Ubuntu, Kali Linux, dan Parrot Security
 - cd Dos_WiFi
 - sudo python doswifi.py / sudo python3 doswifi.py
 - Boom
+
+![Dos-WiFi](ss.png)

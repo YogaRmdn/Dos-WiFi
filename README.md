@@ -10,4 +10,5 @@ Tools ini hanya support pada Ubuntu, Kali Linux, dan Parrot Security
 - sudo python doswifi.py / sudo python3 doswifi.py
 - Boom
 
+## Screenshot Tools
 ![Dos-WiFi](ss.png)

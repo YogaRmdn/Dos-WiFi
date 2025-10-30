@@ -6,7 +6,7 @@ Tools ini hanya support pada Ubuntu, Kali Linux, dan Parrot Security
 
 ## Cara penggunaan tools
 - git clone https://github.com/YogaRmdn/Dos_WiFi.git
-- cd Dos_WiFi
+- cd Dos-WiFi
 - sudo python doswifi.py / sudo python3 doswifi.py
 - Boom
 
